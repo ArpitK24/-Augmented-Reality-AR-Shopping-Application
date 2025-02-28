@@ -1,4 +1,4 @@
-## Augmented Reality (AR) Shopping Application
+## Augmented Reality (AR) Shopping Application(under Development)
 
 ![AR Shopping Application Banner](path/to/banner/image.png)  
 
