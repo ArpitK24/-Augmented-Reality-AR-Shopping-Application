@@ -1,3 +1,5 @@
+## Augmented Reality (AR) Shopping Application
+
 ![AR Shopping Application Banner](path/to/banner/image.png)  
 
 ## Overview  
